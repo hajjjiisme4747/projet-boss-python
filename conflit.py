@@ -1,1 +1,1 @@
-print("Tariq howa l boss")
+print("Tariq howa lBoss")
