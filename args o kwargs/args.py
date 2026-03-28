@@ -4,3 +4,4 @@ def sawb_pizza(l_3jina, la_sauce, *args):
 
 # L-klyan kaytleb :
 sawb_pizza("r9i9a", "tomate", "fromage", "zitoun", "thoun")
+print("bonjour")
