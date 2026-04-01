@@ -6,3 +6,5 @@ print("Message siftou Ayoub mn GitHub f smaa")
 produit1.stock()
 produit1.demande()
 produit1.stock()
+print("Hadi khedma qdima")
+print("Khedma jdida bach ndir biha PR").
